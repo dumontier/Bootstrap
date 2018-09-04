@@ -1,0 +1,10 @@
+.title{
+    background-image: url(../img/background.jpg);
+    height: 10em;
+}
+h1{
+    padding-top: 50px;
+}
+.image:hover img{
+    background-color: gray;
+}
